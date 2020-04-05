@@ -1,0 +1,14 @@
+#btn {
+  margin-top:50px;
+  margin-bottom: 25px;
+  padding: 25px;
+  border: 1.5px solid black;
+  border-radius: 20px;
+  font-size: 15px;
+  background-color: #dfe6e9;
+}
+
+/* .list {
+  border: 2px solid #0984e3;
+  padding: 50px;
+} */

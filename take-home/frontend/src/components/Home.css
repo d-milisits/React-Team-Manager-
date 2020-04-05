@@ -1,0 +1,11 @@
+.homepage #welcome {
+  color:#2d3436;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  text-decoration: overline;
+  margin-bottom: 75px;
+}
+.homepage h2 {
+  letter-spacing: 2px;
+  font-variant: small-caps;
+}
